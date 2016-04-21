@@ -1,0 +1,23 @@
+{
+  "name": "smx-node-types",
+  "version": "1.0.0",
+  "description": "Lithium utility library for working with various activity node types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminma/smx-node-types.git"
+  },
+  "keywords": [
+    "SMX",
+    "Lithium"
+  ],
+  "author": "Ipsos SMX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjaminma/smx-node-types/issues"
+  },
+  "homepage": "https://github.com/benjaminma/smx-node-types#readme"
+}
